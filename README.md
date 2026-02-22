@@ -1,4 +1,10 @@
 ## About me:
 
-- 🔭 I’m currently working on ... weird coding stuff, and also meat-smoking recipes
-- 🌱 I’m currently (re)learning ... HTML, javascript, CSS, etc.
+- 🔭 I’m currently working on:
+  - weird coding stuff
+  - meat-smoking recipes
+  - some backyard woodworking projects
+  - coaching a softball team (and gathering detailed metrics)
+- 🌱 I’m currently (re)learning:
+  - HTML, javascript, CSS, etc.
+  - Workday
